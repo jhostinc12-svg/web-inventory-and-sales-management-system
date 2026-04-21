@@ -124,7 +124,7 @@ Este proyecto fue desarrollado como parte del curso de Programación Web, con el
 ### Historial de Cotizaciones  
 ![Historial](images/Imagen8.png)
 
-### Vista adicional  
+### Historial de transacciones
 ![Sistema](images/Imagen9.png)
 
 ## Autor
