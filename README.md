@@ -102,8 +102,8 @@ Este proyecto fue desarrollado como parte del curso de Programación Web, con el
 ### Panel principal
 ![principal](images/Imagen10.png)
 
-### Menù 
-![menu](images/Imagen1x.png)
+### Menu 
+![menu](images/Imagenx.png)
 
 ### Insertar Cliente  
 ![Insertar Cliente](images/imagen2.png)
