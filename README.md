@@ -98,7 +98,7 @@ Este proyecto fue desarrollado como parte del curso de Programación Web, con el
 ---
 ## Capturas del sistema
 
-![Login](images/login.png)
+![Login](images/imagen1.png)
 
 ---
 
