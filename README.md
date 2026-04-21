@@ -99,9 +99,6 @@ Este proyecto fue desarrollado como parte del curso de Programación Web, con el
 
 ## Capturas del sistema  
 
-### Historial de transacciones
-
-
 ### Panel principal
 ![principal](images/Imagen10.png)
 
