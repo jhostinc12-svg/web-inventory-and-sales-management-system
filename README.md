@@ -100,7 +100,7 @@ Este proyecto fue desarrollado como parte del curso de Programación Web, con el
 
 ## Capturas del sistema  
 
-### Menú del Proyecto  
+### Panel principal
 ![Menú](images/imagen1.png)
 
 ### Insertar Cliente  
