@@ -103,7 +103,7 @@ Este proyecto fue desarrollado como parte del curso de Programación Web, con el
 ![principal](images/Imagen10.png)
 
 ### Menu 
-![menu](images/Imagenx.png)
+![menu](images/imagenx.png)
 
 ### Insertar Cliente  
 ![Insertar Cliente](images/imagen2.png)
