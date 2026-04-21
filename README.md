@@ -96,6 +96,11 @@ Base de datos relacional en MySQL denominada `techzone`, compuesta por las sigui
 Este proyecto fue desarrollado como parte del curso de Programación Web, con el propósito de aplicar conocimientos en desarrollo backend, bases de datos y diseño de interfaces, integrando funcionalidades que simulan un sistema empresarial real.
 
 ---
+## Capturas del sistema
+
+![Login](images/login.png)
+
+---
 
 ## Autor
 
