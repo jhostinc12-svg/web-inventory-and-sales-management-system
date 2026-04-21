@@ -96,10 +96,66 @@ Base de datos relacional en MySQL denominada `techzone`, compuesta por las sigui
 Este proyecto fue desarrollado como parte del curso de Programación Web, con el propósito de aplicar conocimientos en desarrollo backend, bases de datos y diseño de interfaces, integrando funcionalidades que simulan un sistema empresarial real.
 
 ---
-## Capturas del sistema
+## Capturas del sistema  
 
-![Login](images/imagen1.png)
+### Menú del Proyecto  
+El menú principal del sistema TechZone ofrece acceso a todas las secciones disponibles para el usuario. Cada opción permite gestionar diferentes funcionalidades del sistema.  
 
+![Menú del Proyecto](images/imagen1.png)
+
+---
+
+### Insertar Cliente  
+Formulario para registrar nuevos clientes en el sistema, permitiendo almacenar información básica como nombre, identificación y contacto.  
+
+![Insertar Cliente](images/imagen2.png)
+
+---
+
+### Insertar Producto  
+Permite agregar nuevos productos al sistema, incluyendo nombre, precio y cantidad en inventario.  
+
+![Insertar Producto](images/imagen3.png)
+
+---
+
+### Listar Clientes  
+Muestra una tabla con todos los clientes registrados en el sistema, con opciones para su gestión y eliminación.  
+
+![Listar Clientes](images/imagen4.png)
+
+---
+
+### Listar Productos  
+Presenta el inventario actual de productos, mostrando información relevante como precio y stock disponible.  
+
+![Listar Productos](images/imagen5.png)
+
+---
+
+### Modificar Cliente  
+Permite seleccionar un cliente existente y actualizar sus datos en el sistema.  
+
+![Modificar Cliente](images/imagen6.png)
+
+---
+
+### Modificar Producto  
+Muestra un formulario que permite editar la información de un producto, incluyendo nombre, precio y cantidad disponible.  
+
+![Modificar Producto](images/imagen7.png)
+
+---
+
+### Historial de Cotizaciones  
+Registra todas las cotizaciones realizadas en el sistema, permitiendo su consulta y eliminación individual.  
+
+![Historial](images/imagen8.png)
+
+---
+
+### Vista general adicional  
+![Sistema](images/imagen9.png)
 ---
 
 ## Autor
