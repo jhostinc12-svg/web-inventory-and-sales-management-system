@@ -121,7 +121,7 @@ Este proyecto fue desarrollado como parte del curso de Programación Web, con el
 ### Modificar Producto  
 ![Modificar Producto](images/Imagen7.png)
 
-### Historial de Cotizaciones  
+### Generación de cotización
 ![Historial](images/Imagen8.png)
 
 ### Historial de transacciones
