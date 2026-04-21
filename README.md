@@ -99,8 +99,11 @@ Este proyecto fue desarrollado como parte del curso de Programación Web, con el
 
 ## Capturas del sistema  
 
+### Historial de transacciones
+
+
 ### Panel principal
-![Menú](images/imagen1.png)
+![principal](images/Imagen10.png)
 
 ### Insertar Cliente  
 ![Insertar Cliente](images/imagen2.png)
@@ -125,6 +128,7 @@ Este proyecto fue desarrollado como parte del curso de Programación Web, con el
 
 ### Historial de transacciones
 ![Sistema](images/Imagen9.png)
+
 
 ## Autor
 
